@@ -2,7 +2,7 @@
 
 
 ### Creator Profile
-    1. Rofi Rosdiani - rosdianirofi@gmail.com
+    1. Rofi Rosdiani - rosdianirofi96@gmail.com
     2. Dafa muhammad Althaf - dafamalthaf13@gmail.com
 
 
@@ -403,13 +403,3 @@ Dengan menggunakan model prediksi churn, perusahaan dapat:
 * **Meningkatkan efisiensi biaya retensi**, dengan hanya 783 pelanggan yang menerima promosi (dibandingkan seluruh basis pelanggan)
 
 Walaupun masih terdapat **447 pelanggan loyal** yang salah diklasifikasikan dan menimbulkan **pemborosan biaya retensi sebesar \$3.129**, angka ini jauh lebih kecil dibandingkan kerugian dalam skenario tanpa model.
-
-## **Tableau Dashboard**
-[Link Tableau Dashboard]()
-
-Berikut merupakan tampilan Tableau Dashboard.
-
-Note: Preview bisa berbeda bergantung masing-masing perangkat saat mengakses Tableau (Not 100% fit)
-
-
-## Streamlit App
