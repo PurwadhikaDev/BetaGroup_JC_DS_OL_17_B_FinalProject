@@ -403,3 +403,8 @@ Dengan menggunakan model prediksi churn, perusahaan dapat:
 * **Meningkatkan efisiensi biaya retensi**, dengan hanya 783 pelanggan yang menerima promosi (dibandingkan seluruh basis pelanggan)
 
 Walaupun masih terdapat **447 pelanggan loyal** yang salah diklasifikasikan dan menimbulkan **pemborosan biaya retensi sebesar \$3.129**, angka ini jauh lebih kecil dibandingkan kerugian dalam skenario tanpa model.
+
+## **Tableau Dashboard**
+[Link Tableau Dashboard](https://public.tableau.com/app/profile/dafa.althaf/viz/FinalProjectTableauTelecomunication/ParetoDistribute)
+
+Note: Preview bisa berbeda bergantung masing-masing perangkat saat mengakses Tableau (Not 100% fit)
